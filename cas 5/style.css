@@ -1,0 +1,22 @@
+body{
+    background-color: chartreuse;
+}
+
+
+h1 {
+color: blue;
+size: 10px;
+}
+.naslov{
+    background-color: rgb(225, 225,225);
+    font-size: 10px;
+}
+.size {
+    font-size: 100px;
+}
+#bitno
+{background-color: yellow;}
+#weight{
+    font-weight: 100;
+}
+/* box model */

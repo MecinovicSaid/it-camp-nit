@@ -1,0 +1,63 @@
+.body
+{
+    height: 100px;
+background-color:  darkgreen;
+}
+
+.table-pool {
+ margin: 15%;
+    position: relative;
+width: 600px;
+height: 300px;
+border: 4mm ridge brown;
+background-color: green;    
+border-radius: 10px;
+}
+
+.table-top {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 590px;
+    height: 290px;
+    background-color: darkgreen;}
+
+.pocket{
+position: absolute;
+width: 40px;
+height: 40px;
+border-radius: 50%;
+background-color: black;}
+
+#top-left
+{
+    left: 0%;
+    top: 0%;}
+
+#top-center
+{
+    left: 50%;
+    top: 0%;
+}
+#top-right
+{
+    top: 0%;
+    right: 0%;
+}
+
+#bottom-left{
+ left: 0%;
+bottom: 0%;
+}
+
+#bottom-center{
+    bottom: 0%;
+    left: 50%;
+}
+
+#bottom-right
+{
+    bottom: 0%;
+    right: 0%;
+}
+
